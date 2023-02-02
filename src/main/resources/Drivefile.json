@@ -1,0 +1,7 @@
+{"web":{"client_id":"390078168341-mackka2dof1be6lj3s5io88g5nfkbfib.apps.googleusercontent.com",
+  "project_id":"folderreader",
+  "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+  "token_uri":"https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+  "client_secret":"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",
+  "redirect_uris":["http://localhost:46687/Callback","http://localhost:8081/Callback","http://localhost:42679/Callback"]}}
